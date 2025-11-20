@@ -4,7 +4,8 @@
 # xhofe/alist:latest
 # hiyouga/verl:ngc-th2.6.0-cu126-vllm0.8.4-flashinfer0.2.2-cxx11abi0
 # verlai/verl:app-verl0.5-transformers4.55.4-vllm0.10.0-mcore0.13.0-te2.2
-hiyouga/llamafactory:latest
+# hiyouga/llamafactory:latest
+qwenllm/qwen3-omni:3-cu124
 
 
 # 支持指定架构
